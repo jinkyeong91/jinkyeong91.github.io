@@ -17,26 +17,26 @@
 
   /* 상단 바 */
   /* 상단 바 배경 색 */
-  --header-bg: var(--body-bg);
+  --header-bg: #c0d8fd;
   /* 상단 바 글자 색 */
   --header-font: #000000;
 
   /* 상단 배너 */
   /* 상단 배너 배경 색 */
   /* --top-banner-bg: var(--body-bg); */
-  --top-banner-bg: #000000;
+  --top-banner-bg: #ffffff;
   /* 상단 배너 글자 색 */
-  --top-banner-font: #ffffff;
+  --top-banner-font: #000000;
 
   /* 빅 버튼 */
   /* 빅 버튼 배경 색 */
-  --cta-button-bg: #01c0e2;
+  --cta-button-bg: #6aa8f8;
   /* 빅 버튼 글자 색 */
   --cta-button-font: #ffffff;
 
   /* 상단 배너 버튼 */
   /* 상단 배너 버튼 배경 색 */
-  --cta-banner-button-bg: var(--cta-button-bg);
+  --cta-banner-button-bg: #1055af;
   /* 상단 배너 버튼 글자 색 */
   --cta-banner-button-font: var(--cta-button-font);
 
@@ -48,23 +48,23 @@
 
   /* 전체 구역 색상 */
   /* 배경 색 */
-  --section-title-bg: var(--body-bg);
+  --section-title-bg: #ffffff;
   /* 글자 색 */
   --section-title-font: #000000;
   /* 카드 색 */
   --section-card-bg: var(--body-bg);
   /* 카드 제목 색 */
-  --section-card-title-font: #000000;
+  --section-card-title-font: #1055af;
   /* 카드 설명 색 */
-  --section-card-subtitle-font: #737373;
+  --section-card-subtitle-font: #000000;
   
   /* Service */
   /* 배경 색 */
   --service-title-bg: var(--section-title-bg);
   /* 글자 색 */
-  --service-title-font: var(--section-title-font);
+  --service-title-font: #000000;
   /* 카드 색 */
-  --service-card-bg: var(--section-card-bg);
+  --service-card-bg: #ffffff;
   /* 카드 제목 색 */
   --service-card-title-font: var(--section-card-title-font);
   /* 카드 설명 색 */
@@ -101,7 +101,7 @@
   --team-card-subtitle-font: var(--section-card-subtitle-font);
 
   /* 하단 경계선 색 */
-  --footer-border-top: #d4d4d4;
+  --footer-border-top: #f70404;
   /* 하단 바 */
   /* 배경 색 */
   --footer-bg: var(--body-bg);
